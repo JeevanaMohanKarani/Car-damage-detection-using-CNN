@@ -57,6 +57,7 @@ Using this system, you can:
 - The model is capable of detecting car damage with high accuracy.
 - Example predictions:
 - Input: Car image → Output: Damage type label
+![Alt text](Screenshot 2026-01-22 191904.png)
 
 ---
 
