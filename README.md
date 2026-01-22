@@ -1,4 +1,4 @@
-#Car Damage Detection using CNN
+Car Damage Detection using CNN
 Overview
 
 This project implements a Convolutional Neural Network (CNN) to automatically detect and classify car damages from images. It is designed for deep learning enthusiasts or anyone working in computer vision for automotive applications.
