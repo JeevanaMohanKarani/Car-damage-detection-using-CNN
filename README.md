@@ -44,37 +44,37 @@ Using this system, you can:
    git clone https://github.com/JeevanaMohanKarani/Car-damage-detection-using-CNN.git
 
 2.Install dependencies:
-  -pip install -r requirements.txt
+- pip install -r requirements.txt
   
 3.Run the notebook car_damage_detection.ipynb to:
--Load dataset
--Train the CNN model
--Evaluate performance
+- Load dataset
+- Train the CNN model
+- Evaluate performance
 
 ---
 
 ## Results
-  -The model is capable of detecting car damage with high accuracy.
-  -Example predictions:
-  -Input: Car image → Output: Damage type label
+- The model is capable of detecting car damage with high accuracy.
+- Example predictions:
+- Input: Car image → Output: Damage type label
 
 ---
 
 ## Dependencies
-  -Python 3.8+
-  -TensorFlow / Keras
-  -NumPy
-  -Pandas
-  -Matplotlib
-  -OpenCV
-  -scikit-learn
+- Python 3.8+
+- TensorFlow / Keras
+- NumPy
+- Pandas
+- Matplotlib
+- OpenCV
+- scikit-learn
 
 ---
 
 ## Future Improvements
-  -Increase dataset size for better accuracy
-  -Use transfer learning (e.g., VGG16, ResNet) for faster and better performance
-  -Deploy as a web app or mobile app for real-time damage detection
+- Increase dataset size for better accuracy
+- Use transfer learning (e.g., VGG16, ResNet) for faster and better performance
+- Deploy as a web app or mobile app for real-time damage detection
 
 ---
 
